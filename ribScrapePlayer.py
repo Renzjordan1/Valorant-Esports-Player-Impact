@@ -14,7 +14,7 @@ from urllib.parse import quote
 aggregateData = pd.DataFrame()
 playerData = pd.DataFrame()
 
-#list of all matches
+#list of all matches (from rib.gg Discord bot commands)
 matches = pd.read_csv("./Amer-VCT-Spring2023/data/AllMatches.csv")
 
 #Scrap rib.gg for all matches in csv
