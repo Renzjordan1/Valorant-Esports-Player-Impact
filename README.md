@@ -39,7 +39,7 @@ Run:
 ```
 jupyter notebook
 ```
-Open All_Players_ImpactModel.ipynb and explore
+Open logModel/All_Players_ImpactModel.ipynb and explore
 
 
 
