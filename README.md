@@ -16,6 +16,11 @@ Idea from https://medium.com/@matbessa12/valorant-impact-value-giving-credit-whe
   ![image](https://github.com/Renzjordan1/Valorant-Esports-Player-Impact/assets/38296706/aba8686b-902f-42b8-a9b6-9edd0606219b)
   
 
+* Evaluation of the Accuracy of the Model (Brier-Score)
+  
+  ![image](https://github.com/Renzjordan1/Valorant-Esports-Player-Impact/assets/38296706/035c69d4-2ca4-4c4f-9b26-18156c513a21)
+
+
 * Scraped Data example:
   
   ![image](https://github.com/Renzjordan1/Valorant-Esports-Player-Impact/assets/38296706/977cf89c-9884-4c42-be3d-b7277d76febf)
